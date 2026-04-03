@@ -118,3 +118,24 @@ Secondary factors include income, while loan amount and education have minimal i
 ---
 
 ## 📁 Project Structure
+
+Credit-Risk-Analysis/
+│
+├── data/
+│   └── Credit_risk_prediction_dataset.csv
+│
+├── notebook/
+│   └── loan_analysis.ipynb
+│
+├── outputs/
+│   └── charts/
+│
+├── requirements.txt
+└── README.md
+
+
+## 📌 Future Improvements
+- Build ML model for prediction on this will add preditive analysis around that
+
+- ## 👤 Created By
+**Rahul Pandey**
